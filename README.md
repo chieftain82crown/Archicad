@@ -211,4 +211,4 @@ ArchiCAD is available as a complete free version with all features and updates i
 Unlock your architectural potential today — download ArchiCAD free and start designing!
 
 ---
-**Last updated:** 2026-10-10 01:27:46 UTC
+**Last updated:** 2026-10-10 08:01:10 UTC
